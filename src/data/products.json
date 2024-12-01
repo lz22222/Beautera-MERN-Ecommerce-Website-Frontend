@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "name": "Maybelline SuperStay lipstick",
+    "category": "lips",
+    "description": "SuperStay 24 Liquid Lipstick. This long wearing liquid lipstick won’t cake, flake, or dry thanks to our proprietary Micro-Flex technology.",
+    "price": 9.07,
+    "oldPrice": 11.98,
+    "image": "/assets/trend1.avif",
+    "color": "red",
+    "rating": 4.5,
+    "author":"admin"
+  },
+  {
+    "id": 2,
+    "name": "Stila: Stay all Day® Waterproof Liquid Eye Liner",
+    "category": "eyes",
+    "description": " Award-winning liquid eyeliner in an amazing, satin finish. Fine marker-like tip offers precise application for everyone from novices to pros.",
+    "price": 31.00,
+    "image": "/assets/trend2.png",
+    "color": "black",
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "MAC STUDIO FIX CONCEAL AND CORRECT PALETTE",
+    "category": "eyes",
+    "description": "A palette with four concealers and two corrector shades to match any skin tone.",
+    "price": 40.99,
+    "oldPrice": 52.99,
+    "image": "/assets/trend3.avif",
+    "color": "light",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Revlon Super Lustrous Pearl Lipstick",
+    "category": "lips",
+    "description": "Truly addictive to wear. Revlon Super Lustrous™ Lipstick is an iconic cult classic for a reason. It glides on effortlessly with 80% conditioning ingredients, and minimizes lines for smooth, fuller-looking lips. Creamy, moisturized feel.",
+    "price": 7.99,
+    "image": "/assets/trend4.avif",
+    "color": "red",
+    "rating": 15.99
+  },
+  {
+    "id": 5,
+    "name": "NYX Professional Makeup Dewy Finish Setting Spray",
+    "category": "face",
+    "description": "Demand perfection! Makeup lovers and professionals alike know that fresh, glowing, dewy makeup looks that last, must be set with NYX Professional Makeup Dewy Setting Spray. ",
+    "price": 11.97,
+    "oldPrice": 15.99,
+    "image": "/assets/trend5.avif",
+    "color": "clear",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "L'Oréal Paris Infallible Pro-Glow Foundation",
+    "category": "face",
+    "description": "The New Pro-Look of Longwear. It’s Pro With an All-Day Glow. Up to 24HR Foundation. Discover the new pro finish of longwear: up to 24 hour wear with a hydrating glow.",
+    "price": 21.98,
+    "oldPrice": 25.99,
+    "image": "/assets/trend6.avif",
+    "color": "brown",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "NARS Bronzing Cream",
+    "category": "face",
+    "description": "Bronzer just got better with a decadently creamy formula in five sunkissed shades inspired by bestselling Laguna.",
+    "price": 40.00,
+    "image": "/assets/trend7.avif",
+    "color": "brown",
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "name": "BareMinerals: Mineralist Lasting Eyeliner",
+    "category": "eyes",
+    "description": "Waterproof eyeliner, vibrant long-lasting color that won't smudge, budge or flake.",
+    "price": 25.00,
+    "oldPrice": 30.99,
+    "image": "/assets/trend8.png",
+    "color": "black",
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "name": "NYX Professional Makeup Butter Gloss",
+    "category": "lips",
+    "description": "The OG fan-fave butter gloss, now available in clear to bring you glossy perfection with our non-sticky shine the most universal product for anyone, anywhere, anytime.",
+    "price": 12.89,
+    "image": "/assets/trend9.avif",
+    "color": "red",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Glo Shadow Quad",
+    "category": "eyes",
+    "description": "Create a custom eye statement with four expertly matched shades. Our best Eye Shadow Quads are formulated with skin-benefiting antioxidants and rich mineral pigments. These blendable Eye Shadow Quad colors bring any look to life.",
+    "price": 63.00,
+    "image": "/assets/trend10.png",
+    "color": "brown",
+    "rating": 4.2
+  }
+]
