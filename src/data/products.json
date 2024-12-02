@@ -6,7 +6,7 @@
     "description": "SuperStay 24 Liquid Lipstick. This long wearing liquid lipstick won’t cake, flake, or dry thanks to our proprietary Micro-Flex technology.",
     "price": 9.07,
     "oldPrice": 11.98,
-    "image": "/assets/trend1.avif",
+    "image": "https://ibb.co/n8zdTNC",
     "color": "red",
     "rating": 4.5,
     "author":"admin"
@@ -17,7 +17,7 @@
     "category": "eyes",
     "description": " Award-winning liquid eyeliner in an amazing, satin finish. Fine marker-like tip offers precise application for everyone from novices to pros.",
     "price": 31.00,
-    "image": "/assets/trend2.png",
+    "image": "https://ibb.co/j8tDcSP",
     "color": "black",
     "rating": 4.0
   },
@@ -28,7 +28,7 @@
     "description": "A palette with four concealers and two corrector shades to match any skin tone.",
     "price": 40.99,
     "oldPrice": 52.99,
-    "image": "/assets/trend3.avif",
+    "image": "https://ibb.co/8BdKTMx",
     "color": "light",
     "rating": 4.7
   },
@@ -38,7 +38,7 @@
     "category": "lips",
     "description": "Truly addictive to wear. Revlon Super Lustrous™ Lipstick is an iconic cult classic for a reason. It glides on effortlessly with 80% conditioning ingredients, and minimizes lines for smooth, fuller-looking lips. Creamy, moisturized feel.",
     "price": 7.99,
-    "image": "/assets/trend4.avif",
+    "image": "https://ibb.co/tqwqXGJ",
     "color": "red",
     "rating": 15.99
   },
@@ -49,7 +49,7 @@
     "description": "Demand perfection! Makeup lovers and professionals alike know that fresh, glowing, dewy makeup looks that last, must be set with NYX Professional Makeup Dewy Setting Spray. ",
     "price": 11.97,
     "oldPrice": 15.99,
-    "image": "/assets/trend5.avif",
+    "image": "https://ibb.co/d29PSrj",
     "color": "clear",
     "rating": 4.3
   },
@@ -60,7 +60,7 @@
     "description": "The New Pro-Look of Longwear. It’s Pro With an All-Day Glow. Up to 24HR Foundation. Discover the new pro finish of longwear: up to 24 hour wear with a hydrating glow.",
     "price": 21.98,
     "oldPrice": 25.99,
-    "image": "/assets/trend6.avif",
+    "image": "https://ibb.co/2MyYfN8",
     "color": "brown",
     "rating": 4.4
   },
@@ -70,7 +70,7 @@
     "category": "face",
     "description": "Bronzer just got better with a decadently creamy formula in five sunkissed shades inspired by bestselling Laguna.",
     "price": 40.00,
-    "image": "/assets/trend7.avif",
+    "image": "https://ibb.co/ky3R86y",
     "color": "brown",
     "rating": 4.8
   },
@@ -81,7 +81,7 @@
     "description": "Waterproof eyeliner, vibrant long-lasting color that won't smudge, budge or flake.",
     "price": 25.00,
     "oldPrice": 30.99,
-    "image": "/assets/trend8.png",
+    "image": "https://ibb.co/yqdV9sC",
     "color": "black",
     "rating": 4.1
   },
@@ -91,7 +91,7 @@
     "category": "lips",
     "description": "The OG fan-fave butter gloss, now available in clear to bring you glossy perfection with our non-sticky shine the most universal product for anyone, anywhere, anytime.",
     "price": 12.89,
-    "image": "/assets/trend9.avif",
+    "image": "https://ibb.co/2gKmX5b",
     "color": "red",
     "rating": 4.6
   },
@@ -101,7 +101,7 @@
     "category": "eyes",
     "description": "Create a custom eye statement with four expertly matched shades. Our best Eye Shadow Quads are formulated with skin-benefiting antioxidants and rich mineral pigments. These blendable Eye Shadow Quad colors bring any look to life.",
     "price": 63.00,
-    "image": "/assets/trend10.png",
+    "image": "https://ibb.co/7tM9xZy",
     "color": "brown",
     "rating": 4.2
   }
