@@ -1,10 +1,7 @@
-/* eslint-disable react/prop-types */
+import React from 'react'
 import { useDispatch } from 'react-redux'
 import { removeFromCart, updateQuantity } from '../../redux/features/cart/cartSlice'
 import OrderSummary from './OrderSummary'
-import { getImageSrc } from '../../pages/shop/ProductCards';
-
-
 
 export default function CartModal({ products, isOpen, onClose }) {
 	const dispatch = useDispatch()
@@ -59,14 +56,7 @@ export default function CartModal({ products, isOpen, onClose }) {
 										<span className='mr-4 px-1 bg-primary text-white rounded-full'>
 											0{index + 1}
 										</span>
-										<img
-											src={getImageSrc(item.image)}
- 											alt={item.name}
- 											className='size-12 object-cover mr-4'
- 											onError={(e) => {
- 											e.target.src = '/src/assets/placeholder.jpg'; 
-											}}
-											/>
+										<img src={item.image} alt="" className='size-12 object-cover mr-4' />
 										<div>
 											<h5 className='text-lg font-medium'>{item.name}</h5>
 											<p className='text-gray-600 text-sm'>
